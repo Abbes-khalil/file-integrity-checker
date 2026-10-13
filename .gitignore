@@ -1,0 +1,8 @@
+integrity.key
+baseline.json
+directory_baseline.json
+directory_baseline.sig
+__pycache__/
+*.pyc
+.venv/
+.integrity-state/
